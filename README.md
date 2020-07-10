@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-## I am Web Developer |A Competitive Programmer | Student. I have build many personal projects and tried machine learning as well as app development.I enjoy developing website and its components.I believe in building websites with clean and interactive UI.
+### I am Web Developer |A Competitive Programmer | Student. I have build many personal projects and tried machine learning as well as app development.I enjoy developing website and its components.I believe in building websites with clean and interactive UI.
 
-## Some of my key skills include - HTML,CSS,JavaScript,Bootstrap,NodeJS,ExpressJS,Python,C,C++.
-## 5 Star on Hackerrank
+### Some of my key skills include - HTML,CSS,JavaScript,Bootstrap,NodeJS,ExpressJS,Python,C,C++.
+### 5 Star on Hackerrank
 
 - 🔭 I’m currently working on Nodejs
 - 💬 Ask me about anything you like.
