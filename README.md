@@ -4,6 +4,8 @@
 
 ### Some of my key skills include - HTML,CSS,JavaScript,Bootstrap,NodeJS,ExpressJS,Python,C,C++.
 ### 5 Star on Hackerrank
+### 3 Star on Codechef
+
 
 - 🔭 I’m currently working on Nodejs
 - 💬 Ask me about anything you like.
