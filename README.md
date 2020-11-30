@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-### I am a 3rd year CSE student at IIIT Agartala.I love designing and developing anything related to web.
+### I am a 3rd year CSE student at IIIT Agartala.I love designing and developing anything related to web.If you need any help just ping me and I will be there.
 ### Current Position - Software Developer Intern in IKSS LLP.
 
-### Although I am not associated with specific domain but for record I have currently worked professionaly with - 
-### Frontend - HTML , CSS , JavaScript , React Js.
-### Backend - PHP , Laravel
-### Database - MySQL
-### Tools I prefer - VS Code , Adobe Xd , Adobe Illustrator.
+#### Although I am not associated with specific domain but for record I have currently worked professionaly with - 
+- Frontend - HTML , CSS , JavaScript , React Js.
+- Backend - PHP , Laravel
+- Database - MySQL
+- Tools I prefer - VS Code , Adobe Xd , Adobe Illustrator.
 
-### 5 Star on Hackerrank
-### 3 Star on Codechef
+#### 5 Star on Hackerrank 
+#### 3 Star on Codechef
 
 
 - 🔭 I’m currently working on React Js
