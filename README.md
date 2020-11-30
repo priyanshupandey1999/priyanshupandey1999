@@ -1,13 +1,20 @@
 ### Hi there 👋
 
-### I am Web Developer |A Competitive Programmer | Student. I have build many personal projects and tried machine learning as well as app development.I enjoy developing website and its components.I believe in building websites with clean and interactive UI.
+### I am a 3rd year CSE student at IIIT Agartala.
+### I love designing and developing anything related to web.
+### Current Position - Software Developer Intern in IKSS LLP.
 
-### Some of my key skills include - HTML,CSS,JavaScript,Bootstrap,NodeJS,ExpressJS,Python,C,C++,PHP,MYSQL.
+### Although I can't be associated with specific domain but still I have currently worked professionaly with - 
+### Frontend - HTML , CSS , JavaScript , React Js.
+### Backend - PHP , Laravel
+### Database - MySQL
+### Tools I prefer - VS Code , Adobe Xd , Adobe Illustrator.
+
 ### 5 Star on Hackerrank
 ### 3 Star on Codechef
 
 
-- 🔭 I’m currently working on Nodejs
+- 🔭 I’m currently working on React Js
 - 💬 Ask me about anything you like.
 - 📫 How to reach me: www.linkedin.com/in/priyanshupandeyvsec  | priyanshu.pandeyvsec@gmail.com |  https://priyanshupandey1999.github.io/ 
 
