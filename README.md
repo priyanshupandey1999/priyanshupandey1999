@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-### I am a 3rd year CSE student at IIIT Agartala.I love designing and developing anything related to web.If you need any help just ping me and I will be there.
-### Current Position - Software Developer Intern in IKSS LLP.
+### I am a 3rd year CSE student at IIIT Agartala.I love designing and developing anything related to web.If you need any help just ping me and I will connect with you shortly.
 
 #### Although I am not associated with specific domain but for record I have currently worked professionaly with - 
 - Frontend - HTML , CSS , JavaScript , React Js.
