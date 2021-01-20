@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am a developer who likes designing stuff and then building it. I am pursuing Computer Science from IIIT Agartala and would love to contribute to your projects.  
+### I am a developer who likes designing stuff and then building it. I am pursuing Computer Science from IIIT Agartala and would love to contribute to your projects.  
 
 #### Although I am a quick learner but I have currently worked professionaly with - 
 ✔ Frontend - HTML , CSS , JavaScript , React Js.
