@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-### I am a 3rd year CSE student at IIIT Agartala.I love designing and developing anything related to web.If you need any help just ping me and I will connect with you shortly.
+## I am a developer who likes designing stuff and then building it. I am pursuing Computer Science from IIIT Agartala and would love to contribute to your projects.  
 
-#### Although I am not associated with specific domain but for record I have currently worked professionaly with - 
-- Frontend - HTML , CSS , JavaScript , React Js.
-- Backend - PHP , Laravel
-- Database - MySQL
-- Tools I prefer - VS Code , Adobe Xd , Adobe Illustrator.
+#### Although I am a quick learner but I have currently worked professionaly with - 
+✔ Frontend - HTML , CSS , JavaScript , React Js.
+✔ Backend - PHP , Laravel
+✔ Database - MySQL
+✔ Tools I prefer - VS Code , Adobe Xd , Adobe Illustrator.
 
-#### 5 Star on Hackerrank 
-#### 3 Star on Codechef
+### 5 Star on Hackerrank 
+### 3 Star on Codechef
 
 
 - 🔭 I’m currently working on React Js
