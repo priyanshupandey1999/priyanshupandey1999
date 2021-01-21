@@ -14,16 +14,16 @@
 ## Past Internships -  
 ✨Software Development Intern at IKSS LLP    
 
-   🔥 Developed webapp for Architecture Management System.
+      🔥 Developed webapp for Architecture Management System.
    
-   🔥 Designed 3+ website and 2+ apps and build them.
+      🔥 Designed 3+ website and 2+ apps and build them.
    
    
 ✨Web Development Intern at The Digital Algorithm 
 
-   🔥 Solely developed 1 website with complete infrastructure to deploying.
+      🔥 Solely developed 1 website with complete infrastructure to deploying.
    
-   🔥 Developed in multiple websites as a part of team.
+      🔥 Developed multiple websites as a part of team.
 
 ### 5 Star on Hackerrank 
 ### 3 Star on Codechef
