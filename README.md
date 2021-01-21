@@ -12,13 +12,17 @@
 ✔ Tools I prefer - VS Code , Adobe Xd , Adobe Illustrator.
 
 ## Past Internships -  
-✨Software Development Intern at IKSS LLP 
+✨Software Development Intern at IKSS LLP    
+
    🔥 Developed webapp for Architecture Management System.
+   
    🔥 Designed 3+ website and 2+ apps and build them.
    
    
 ✨Web Development Intern at The Digital Algorithm 
+
    🔥 Solely developed 1 website with complete infrastructure to deploying.
+   
    🔥 Developed in multiple websites as a part of team.
 
 ### 5 Star on Hackerrank 
