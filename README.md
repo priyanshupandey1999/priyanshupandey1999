@@ -3,7 +3,7 @@
 ### I am a developer who likes designing stuff and then building it. I am pursuing Computer Science from IIIT Agartala and would love to contribute to your projects.  
 
 #### Although I am a quick learner but I have currently worked professionaly with - 
-✔ Frontend - HTML , CSS , JavaScript , React Js.
+✔ Frontend - HTML , CSS , JavaScript , React Js , Redux.
 
 ✔ Backend - PHP , Laravel
 
@@ -12,6 +12,21 @@
 ✔ Tools I prefer - VS Code , Adobe Xd , Adobe Illustrator.
 
 ## Past Internships -  
+
+✨Software Development Intern at Ai Palette   
+
+      🔥 Innovation in premium platform of Ai Palette.
+   
+      🔥 Tech Stack - React Js,Redux.
+   
+
+✨Software Development Intern at Neoastra    
+
+      🔥 Developed frontend for food delivery platform.
+   
+      🔥 Tech Stack - React Js,Redux,Vue.
+   
+   
 ✨Software Development Intern at IKSS LLP    
 
       🔥 Developed webapp for Architecture Management System.
